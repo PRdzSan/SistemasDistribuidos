@@ -1,6 +1,6 @@
 # 🖧 Sistemas Distribuidos – Proyectos y Prácticas
 
-Este repositorio contiene los proyectos desarrollados durante el curso de **Sistemas Distribuidos**. Cada carpeta corresponde a un tema central del curso, e incluye prácticas implementadas con distintas tecnologías para explorar la teoría y llevarla a la práctica.
+Este repositorio contiene los proyectos desarrollados durante el curso de **Sistemas Distribuidos** impartido en el ESCOM IPN. Cada carpeta corresponde a un tema central del curso, e incluye prácticas implementadas con distintas tecnologías para explorar la teoría y llevarla a la práctica.
 
 ---
 
