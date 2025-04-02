@@ -16,9 +16,8 @@ Este repositorio contiene los proyectos desarrollados durante el curso de **Sist
 
 ---
 
-## 🧱 Estructura sugerida
+## 🧱 Estructura
 
-Se recomienda organizar el repositorio por temas del curso:
 
 ```
 sistemas-distribuidos/
