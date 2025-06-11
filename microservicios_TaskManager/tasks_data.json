@@ -1,0 +1,34 @@
+{
+    "pablo": [
+        {
+            "id": "e8dff60d-a244-4850-98fd-6f047a199346",
+            "title": "Prueba 1",
+            "description": "descrcipcion xd",
+            "category": "Escuelaa",
+            "due_date": "2024-09-10 20:00",
+            "status": "terminada",
+            "author": "pablo"
+        },
+        {
+            "id": "912b7219-0b15-45db-99e7-d6b2de39dcee",
+            "title": "Hola",
+            "description": "Saludos a todoss",
+            "category": "Saludos",
+            "due_date": "2025-04-10 20:01",
+            "status": "en progreso",
+            "author": "pablo"
+        }
+    ],
+    "david": [
+        {
+            "id": "4c36da48-649b-46cf-8700-d3f205854ba7",
+            "title": "Prueba David",
+            "description": "Decr",
+            "category": "Alimentos",
+            "due_date": "2025-04-24 23:59",
+            "status": "terminada",
+            "author": "david"
+        }
+    ],
+    "pablo2": []
+}

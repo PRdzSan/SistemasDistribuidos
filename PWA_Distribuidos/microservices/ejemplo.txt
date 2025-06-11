@@ -1,0 +1,11 @@
+# Registro
+curl -X POST -H "Content-Type: application/json" -d '{"username":"pablo", "password":"1234"}' http://localhost:5000/register
+
+# Login
+curl -X POST -H "Content-Type: application/json" -d '{"username":"pablo", "password":"1234"}' http://localhost:5000/login
+
+# Añadir tarea
+curl -X POST -H "Content-Type: application/json" -d '{"task":"Estudiar sistemas distribuidos"}' http://localhost:5001/tasks/pablo
+
+# Ver tareas
+curl http://localhost:5001/tasks/pablo

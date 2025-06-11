@@ -1,0 +1,22 @@
+{
+    "pablo": {
+        "password": "12345",
+        "created_at": "2025-04-09 14:20:14",
+        "updated_at": "2025-04-09 14:20:14"
+    },
+    "armandito": {
+        "password": "armandito",
+        "created_at": "2025-04-09 19:49:15",
+        "updated_at": "2025-04-09 19:49:15"
+    },
+    "david": {
+        "password": "12345",
+        "created_at": "2025-04-09 19:51:21",
+        "updated_at": "2025-04-09 19:51:21"
+    },
+    "pablo2": {
+        "password": "clavenueva",
+        "created_at": "2025-04-09 20:47:36",
+        "updated_at": "2025-04-09 21:03:31"
+    }
+}

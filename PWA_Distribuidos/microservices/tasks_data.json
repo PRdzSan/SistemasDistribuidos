@@ -1,0 +1,54 @@
+{
+    "pablo": [
+        {
+            "id": "6dc426a7-e7a5-49f9-8efd-adaf39664ca6",
+            "title": "Prueba editada",
+            "description": "Pruebas\nss\nss",
+            "category": "Test",
+            "due_date": "2025-05-22 21:17",
+            "status": "en progreso",
+            "author": "pablo"
+        },
+        {
+            "id": "d27f48ca-c729-436c-b510-09a49e87936e",
+            "title": "Agregar tareas",
+            "description": "Aqui agregas una descripci\u00f3n",
+            "category": "Test",
+            "due_date": "2025-05-08 22:00",
+            "status": "en progreso",
+            "author": "pablo"
+        },
+        {
+            "id": "00d0d669-3bdb-4c2a-9ebf-22d73fc89253",
+            "title": "ss",
+            "description": "ss",
+            "category": "sssssssssssss",
+            "due_date": "2025-05-09 22:16",
+            "status": "en progreso",
+            "author": "pablo"
+        }
+    ],
+    "david": [
+        {
+            "id": "4c36da48-649b-46cf-8700-d3f205854ba7",
+            "title": "Prueba David",
+            "description": "Decr",
+            "category": "Alimentos",
+            "due_date": "2025-04-24 23:59",
+            "status": "terminada",
+            "author": "david"
+        }
+    ],
+    "pablo2": [],
+    "Armandito333": [
+        {
+            "id": "dc154492-e565-4108-ae20-0e3748f92852",
+            "title": "David23",
+            "description": "sss",
+            "category": "Dos",
+            "due_date": "2025-05-31 07:25",
+            "status": "en progreso",
+            "author": "Armandito333"
+        }
+    ]
+}

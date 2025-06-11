@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gestor de Tareas</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+        max-width: 600px;
+        margin: auto;
+      }
+      input,
+      button,
+      select {
+        padding: 6px;
+        margin: 5px 0;
+        width: 100%;
+      }
+      .task {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 5px 0;
+      }
+      .done {
+        background-color: #c8facc;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="auth-section">
+      <h2>Registro</h2>
+      <input id="reg-username" placeholder="Usuario nuevo" />
+      <input id="reg-password" placeholder="Contraseña nueva" type="password" />
+      <button onclick="register()">Registrar usuario</button>
+      <p id="register-status"></p>
+
+      <h2>Login</h2>
+      <input id="username" placeholder="Usuario" />
+      <input id="password" placeholder="Contraseña" type="password" />
+      <button onclick="login()">Iniciar sesión</button>
+      <p id="login-status"></p>
+
+      <h2>Cambiar Contraseña</h2>
+      <input id="reset-username" placeholder="Usuario" />
+      <input id="reset-old-password" placeholder="Contraseña actual" type="password" />
+      <input id="reset-new-password" placeholder="Nueva contraseña" type="password" />
+      <button onclick="resetPassword()">Cambiar contraseña</button>
+      <p id="reset-status"></p>
+    
+    </div>
+
+    <div id="task-section" style="display: none">
+      <h2>Mis Tareas</h2>
+      <div id="task-list"></div>
+
+      <h3>Nueva Tarea</h3>
+      <input id="title" placeholder="Título" />
+      <input id="description" placeholder="Descripción" />
+      <input id="category" placeholder="Categoría" />
+      <input id="due_date" placeholder="Fecha y hora (YYYY-MM-DD HH:MM)" />
+      <button id="btn-add" onclick="addTask()">Crear tarea</button>
+      <button id="btn-edit" onclick="editTask()" style="display: none">
+        Guardar cambios
+      </button>
+      <button onclick="logout()">Cerrar sesión</button>
+      <input type="hidden" id="editing-id" />
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
