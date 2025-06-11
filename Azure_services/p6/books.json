@@ -1,0 +1,247 @@
+[
+    {
+        "title": "Cien Años de Soledad",
+        "author": "Gabriel García Márquez",
+        "year": 1967
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949
+    },
+    {
+        "title": "Rayuela",
+        "author": "Julio Cortázar",
+        "year": 1963
+    },
+    {
+        "title": "El Principito",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943
+    },
+    {
+        "title": "Orgullo y Prejuicio",
+        "author": "Jane Austen",
+        "year": 1813
+    },
+    {
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "year": 1605
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953
+    },
+    {
+        "title": "Crónica de una Muerte Anunciada",
+        "author": "Gabriel García Márquez",
+        "year": 1981
+    },
+    {
+        "title": "La Sombra del Viento",
+        "author": "Carlos Ruiz Zafón",
+        "year": 2001
+    },
+    {
+        "title": "El Aleph",
+        "author": "Jorge Luis Borges",
+        "year": 1949
+    },
+    {
+        "title": "El Código Da Vinci",
+        "author": "Dan Brown",
+        "year": 2003
+    },
+    {
+        "title": "Drácula",
+        "author": "Bram Stoker",
+        "year": 1897
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818
+    },
+    {
+        "title": "La Metamorfosis",
+        "author": "Franz Kafka",
+        "year": 1915
+    },
+    {
+        "title": "Los Miserables",
+        "author": "Victor Hugo",
+        "year": 1862
+    },
+    {
+        "title": "Matar a un Ruiseñor",
+        "author": "Harper Lee",
+        "year": 1960
+    },
+    {
+        "title": "Ulises",
+        "author": "James Joyce",
+        "year": 1922
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "year": 1603
+    },
+    {
+        "title": "El Retrato de Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890
+    },
+    {
+        "title": "La Odisea",
+        "author": "Homero",
+        "year": -800
+    },
+    {
+        "title": "La Ilíada",
+        "author": "Homero",
+        "year": -750
+    },
+    {
+        "title": "La Divina Comedia",
+        "author": "Dante Alighieri",
+        "year": 1320
+    },
+    {
+        "title": "El Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937
+    },
+    {
+        "title": "El Señor de los Anillos",
+        "author": "J.R.R. Tolkien",
+        "year": 1954
+    },
+    {
+        "title": "Harry Potter y la Piedra Filosofal",
+        "author": "J.K. Rowling",
+        "year": 1997
+    },
+    {
+        "title": "Harry Potter y la Cámara Secreta",
+        "author": "J.K. Rowling",
+        "year": 1998
+    },
+    {
+        "title": "Harry Potter y el Prisionero de Azkaban",
+        "author": "J.K. Rowling",
+        "year": 1999
+    },
+    {
+        "title": "Harry Potter y el Cáliz de Fuego",
+        "author": "J.K. Rowling",
+        "year": 2000
+    },
+    {
+        "title": "Harry Potter y la Orden del Fénix",
+        "author": "J.K. Rowling",
+        "year": 2003
+    },
+    {
+        "title": "Harry Potter y el Misterio del Príncipe",
+        "author": "J.K. Rowling",
+        "year": 2005
+    },
+    {
+        "title": "Harry Potter y las Reliquias de la Muerte",
+        "author": "J.K. Rowling",
+        "year": 2007
+    },
+    {
+        "title": "El Resplandor",
+        "author": "Stephen King",
+        "year": 1977
+    },
+    {
+        "title": "It",
+        "author": "Stephen King",
+        "year": 1986
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "year": 1974
+    },
+    {
+        "title": "La Naranja Mecánica",
+        "author": "Anthony Burgess",
+        "year": 1962
+    },
+    {
+        "title": "Mujercitas",
+        "author": "Louisa May Alcott",
+        "year": 1868
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847
+    },
+    {
+        "title": "Cumbres Borrascosas",
+        "author": "Emily Brontë",
+        "year": 1847
+    },
+    {
+        "title": "Rebelión en la Granja",
+        "author": "George Orwell",
+        "year": 1945
+    },
+    {
+        "title": "Los Juegos del Hambre",
+        "author": "Suzanne Collins",
+        "year": 2008
+    },
+    {
+        "title": "En Llamas",
+        "author": "Suzanne Collins",
+        "year": 2009
+    },
+    {
+        "title": "Sinsajo",
+        "author": "Suzanne Collins",
+        "year": 2010
+    },
+    {
+        "title": "Divergente",
+        "author": "Veronica Roth",
+        "year": 2011
+    },
+    {
+        "title": "Insurgente",
+        "author": "Veronica Roth",
+        "year": 2012
+    },
+    {
+        "title": "Leal",
+        "author": "Veronica Roth",
+        "year": 2013
+    },
+    {
+        "title": "Bajo la Misma Estrella",
+        "author": "John Green",
+        "year": 2012
+    },
+    {
+        "title": "Ciudades de Papel",
+        "author": "John Green",
+        "year": 2008
+    },
+    {
+        "title": "Buscando a Alaska",
+        "author": "John Green",
+        "year": 2005
+    },
+    {
+        "title": "El Psicoanalista",
+        "author": "John Katzenbach",
+        "year": 2002
+    }
+]
